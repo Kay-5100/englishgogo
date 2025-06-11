@@ -1,2 +1,36 @@
 # englishgogo
-英会話サービスのLP
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<body>
+  <section class="hero">
+    <h1>あなたの“好き”が英語になる、街でのリアル体験</h1>
+    <button onclick="location.href='#find'">体験を探す</button>
+  </section>
+
+  <section class="section">
+    <h2>体験ジャンル</h2>
+    <div class="tags">
+      <span>#カフェ × 英語</span>
+      <span>#美容 × 英語</span>
+      <span>#ヨガ × 英語</span>
+      <span>#子育て × 英語</span>
+      <span>#アウトドア × 英語</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>ご利用の流れ</h2>
+    <div class="steps">
+      <div class="step">① 日時・場所を選ぶ</div>
+      <div class="step">② ガイドとの予約確定</div>
+      <div class="step">③ 現地で英会話スタート</div>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 街なか英会話体験サービス｜利用規約｜プライバシーポリシー｜LINE / Instagram
+  </footer>
+</body>
+</html>
